@@ -1,2 +1,2 @@
 # Travel_Mate
-Year03Semester01 - Web Application for Tourism Management (My function-Hotel Booking Management)
+Year03Semester01 - Web Application for Travel Management System (My function-Hotel Booking Management)
